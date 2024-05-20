@@ -1,0 +1,14 @@
+C:\Cursos\DIO\Desafio_Hospedagem\bin\Debug\net7.0\Desafio_Hospedagem.exe
+C:\Cursos\DIO\Desafio_Hospedagem\bin\Debug\net7.0\Desafio_Hospedagem.deps.json
+C:\Cursos\DIO\Desafio_Hospedagem\bin\Debug\net7.0\Desafio_Hospedagem.runtimeconfig.json
+C:\Cursos\DIO\Desafio_Hospedagem\bin\Debug\net7.0\Desafio_Hospedagem.dll
+C:\Cursos\DIO\Desafio_Hospedagem\bin\Debug\net7.0\Desafio_Hospedagem.pdb
+C:\Cursos\DIO\Desafio_Hospedagem\obj\Debug\net7.0\Desafio_Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\DIO\Desafio_Hospedagem\obj\Debug\net7.0\Desafio_Hospedagem.AssemblyInfoInputs.cache
+C:\Cursos\DIO\Desafio_Hospedagem\obj\Debug\net7.0\Desafio_Hospedagem.AssemblyInfo.cs
+C:\Cursos\DIO\Desafio_Hospedagem\obj\Debug\net7.0\Desafio_Hospedagem.csproj.CoreCompileInputs.cache
+C:\Cursos\DIO\Desafio_Hospedagem\obj\Debug\net7.0\Desafio_Hospedagem.dll
+C:\Cursos\DIO\Desafio_Hospedagem\obj\Debug\net7.0\refint\Desafio_Hospedagem.dll
+C:\Cursos\DIO\Desafio_Hospedagem\obj\Debug\net7.0\Desafio_Hospedagem.pdb
+C:\Cursos\DIO\Desafio_Hospedagem\obj\Debug\net7.0\Desafio_Hospedagem.genruntimeconfig.cache
+C:\Cursos\DIO\Desafio_Hospedagem\obj\Debug\net7.0\ref\Desafio_Hospedagem.dll
